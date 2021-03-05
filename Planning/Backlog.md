@@ -4,45 +4,34 @@
 
 are necessary for basic usability:
 
-  - **As a user I want to see `Welcome` section** :
-    - [ ] When user opens her portfolio needs to see a "Welcome page" showing her name and her tittle as "Web developer"
+  - **As a user I want name and profile photo so that it can describe myself and user can identify website**
 
-  - **As a user I want too see a hiperlink button `Contact Me`** :
-   - [ ] When user opens her portfolio needs to see a functionable button  called "Contact Me" that will direct a potential employer to her contact email address
+  - **As a user I want nice color combination on home page so that website create truly unique look.** 
   
- - **As a user I want too see a hiperlink button `Download My C.V`** :
-   - [ ] When user opens her portfolio needs to see a functionable button  called "Download My C.V" that will direct a download her Curriculum Vitae in a PDF compatible version.
+  -  **As a user I want to have a `My Skills` section**.
 
-- **As a user I want to have a `About Me`**:  
-   - [ ] When user opens her portfolio needs to see a `About Me` section showing her name, age, current location (city and country) and contact email address  
+  -  **As a user I want list of main pages along the top of web site so that they can easily navigate site.**
+   
+   - **As a website owner I want reference to Github account so that recruiter can identify my work.or showcase my work.**
 
-- **As a user I want to have a `Programming languages`**:  
-   - [ ] When user opens her portfolio needs to see a `Programming languages` that the user domains (HTML5, CSS and PHP).
+   -  **As a web site owner include Work-Like Experience(previous work) so that can show employers achievements and transferable skills that meet their requirements.**
 
-- **As a user I want to have a `Programming languages`**:  
-   - [ ] When user opens her portfolio needs to see 
+   -  **As user I want contact information(email,phone number) so that it provide good opportunities for people to contact.**
 
+   -  **As a user I want too see a button `Download My C.V`** :
+  
+   - **As a user I want to have a `About Me`**:  
+   
 
 ## Should-Haves
 
 will complete the user experience, but are not necessary:
 
-- **As a user I want to have a `small biography`**:  
-   - [ ] When user opens her portfolio needs to see a small biography of herself  resuming or paraphrasing  your background and hobbies. "I'm Mayuri
+- **As a owner I want reference to student at hack your future so that it gives credibility and used to connect.**
 
-- **As a user I want to have a `My Skills` section**.
-   - [ ] When user opens her portfolio needs to see `My Skills` section showing the percentage of the domain of the programming language.
- 
- - **As a user I want that my personal information to be visible**:
-   - [ ] When user opens her portfolio wants that her personal information to be visible to all visitors.
-
- - **As a user I want that my color background to be color `black`**:
-  -  [ ] When user opens her portfolio, she wants the color background to be color black
-
- - **As a user I want a selected photo next to `Welcome` section**:
-  -  [ ] 
-
- - **As a user I want see a working experience under to `Welcome` section**:
+- **As a owner I want minimalist background design so that it create  clear tempting to audience.**
+  
+- **As a owner I want spoken language reference so that recruiter/employer get to know ability to be an effective public speaker.**
 
 
 
@@ -50,12 +39,9 @@ will complete the user experience, but are not necessary:
 
 would be really cool ... if there's time:
 
-- **As a user wants to see an interactive map of her location**.
-  - [ ]  The user would like to have a map
+- **As web site owner I want google map that shows address exactly sure where I am located.**
 
-- **As a user wants to see a hiperlink button to her `Github account`**.
-  - [ ]  The user would like to have a hiperlink button to her `Github account` that will redirect the user to her githuhb account. Visibility: only showing the gibhub logo.
-
+- **As user I want social networking icons at the footer**.
 
 
 
