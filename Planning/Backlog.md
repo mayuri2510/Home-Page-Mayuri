@@ -12,7 +12,7 @@ are necessary for basic usability:
 
   -  **As a user I want list of main pages along the top of web site so that they can easily navigate site.**
    
-   - **As a website owner I want reference to Github account so that recruiter can identify my work.or showcase my work.**
+   - **As a website owner I want reference to Github account so that recruiter can identify my work or i can showcase my work.**
 
    -  **As a web site owner include Work-Like Experience(previous work) so that can show employers achievements and transferable skills that meet their requirements.**
 
