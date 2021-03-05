@@ -42,17 +42,10 @@ Take a few minutes getting to know your partner and their ambitions. Ask questio
 - She's a baby
 - She has lived in Italy
 - She has working experience with the IT area
-- She's a PHP Developer
-- Bachelor in Information Technology -2010
-- Master in Computer Science - 2013
-
-### Job Experience
-- 2010 She worked as a IT cordinator at an International Institute during 1 year, she was in charged of doiing daily reports and analysis. 
-- 2015 She worked as PHP developer during 1 year, she did a several tasks as maintining data bases, unit testing. She used different programming languages such as HTML and CSS.
 
 ### Languages 
-- Marati 
-- Indi
+- Marathi
+- Hindi
 - English  
 - Learning Dutch
 
@@ -61,12 +54,9 @@ Take a few minutes getting to know your partner and their ambitions. Ask questio
 
 ### Hobbies 
 - She enjoys listen to music
-- Read novels in Marati language
+- Read novels in Marathi language
 - She likes cooking Indian dishes
 - She likes to play Badminton
-
-
-The best way to do your interview is with a lot of `why?`. Start your interview with one or two open-ended questions and follow up with a lot of `why?`, this gives your partner the chance to really explain themselves instead of just answering your questions. You might find that they even learn something about themselves!
 
 ### Notes
 
@@ -84,11 +74,10 @@ She's an easy going person. She's focus in follow her ambitions and goals.
 
 ## 2. Follow-Up Interview
 
-Mayuri is looking for her desing to be concrete and certainly focus in the experience she already had during the years working in the IT sector, seeking for the best job opportunity. In order for future employers to see her skills and habilities gained over the years and the add value she will bring to future employer the company. 
-
-### Notes
-
 ### Summary
+- According to the previous interview ,her current ambition is to get job in IT industry,seeking for the best job opportunity.
+- Currently she is student at hack your future to perceive his dream want to exapand outside surrounding for job hunting
+- Having an online presence allows you to expand your network outside,In order for future employers to see her skills and abilities.
 
 [TOP](#steps)
 
@@ -96,28 +85,21 @@ Mayuri is looking for her desing to be concrete and certainly focus in the exper
 
 ## 3. Capture Findings
 
-Take some time to consolidate & summarize what you learned in the previous two interviews.
-
 ### Needs
 
 <!-- What exactly does your partner need from their home page? Are they looking for collaborators? A job?Learning opportunities? Or something you never expected? -->
-
-### Insights
-
-<!-- New learnings about your partner to use in your design -->
+A personal website can act as a sign-post to get you and your work seen by potential employers,so she want home page of her portfolio so that she can share her
+portfolio/profile with company recruiter it will help her for job hunting to give her chance to succeed.
 
 [TOP](#steps)
 
 ---
 
 ## 4. Define the Problem
-
-In your own words describe:
-
-- Why your partner needs this home page
-- How they want to be represented
-- Who they want to see their page
-- How will these people interact with the page
+- Mayuri need this home page because use it as supplements to her CV that provides extra information about her skills and interest.
+- The home page should be simple,easy to understand and describe her personality.
+- Anybody can see her home page but the main target audion is Company recruiter.
+- People interact with her using contact information in home page.
 
 A useful format:
 
@@ -132,8 +114,14 @@ A useful format:
 
 Sketch up a few wireframes for your partner's home page with no regard for your their programming ability, time constraints, technical constraints, or any other practical considerations. How are they different? How does each one serve your partner differently?
 
-- [wireframe name]()
-- ...
+- [Reference Template] (https://preview.themeforest.net/item/biobo-responsive-one-page-personal-portfolio-template/full_screen_preview/21768677?_ga=2.72849683.1834069559.1614617288-200054295.1614617288)
+- Name,profile Photo
+- Hobbies.
+- Current status,Working experience.
+- Map .
+- Link to github account.
+- social networking Reference.
+- Contact information. 
 
 [TOP](#steps)
 
@@ -141,11 +129,10 @@ Sketch up a few wireframes for your partner's home page with no regard for your 
 
 ## 6. Partner Feedback
 
-Discuss your ideas with your partner. lots of `why?`.
-
-### Notes
-
 ### Summary
+
+- Communication was smooth and clear Points in list accepted by the partner.and from reference template got clear idea about how 
+home page should look like.
 
 [TOP](#steps)
 
