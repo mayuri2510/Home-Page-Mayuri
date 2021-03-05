@@ -1,4 +1,4 @@
-# Designing NAME's Home Page
+# Designing Mayuri's Home Page
 
 <!-- introduce your interviewee -->
 
