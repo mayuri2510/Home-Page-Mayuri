@@ -1,8 +1,8 @@
 # UI/UX Design :
 
 ## The Task :
-- Practice User Interviews and Design Thinking with patner.
-- Create Home Page backlogs, wireframes with patner.
+- Practice User Interviews and Design Thinking with partner.
+- Create Home Page backlogs, wireframes with partner.
 - Development Strategy.  
 - Project Board & Issues.
 - Develop.
