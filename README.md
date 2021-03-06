@@ -12,7 +12,7 @@
 
 Visual Studio Code :  Source-Code Editor. 
 
-Language used: Html/CSS
+Language used: Html and CSS
 
 ## Contributors 
 Design by : Emely Salmeron
