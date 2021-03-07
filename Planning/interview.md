@@ -131,7 +131,7 @@ Sketch up a few wireframes for your partner's home page with no regard for your 
 
 ### Summary
 
-- Communication was smooth and clear Points in list accepted by the partner.and from reference template got clear idea about how 
+- Communication was smooth and clear Points in list accepted by the partner and from reference template got clear idea about how 
 home page should look like.
 
 [TOP](#steps)
