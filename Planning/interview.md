@@ -39,7 +39,7 @@ Take a few minutes getting to know your partner and their ambitions. Ask questio
 - Mayuri is from India.
 - Currently  living in Belgium
 - She's a student at HackYourFuture  
-- She's a baby
+- She has a baby
 - She has lived in Italy
 - She has working experience with the IT area
 
