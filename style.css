@@ -2,6 +2,7 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 300;
+  /*overflow: hidden;*/
 }
 
 /* nav bar */
@@ -50,4 +51,55 @@ nav a {
 }
 nav a:hover {
   color: darkorange;
+}
+/*profile section*/
+
+.sub_main {
+  width: 60%;
+  height: 80%;
+  /*margin: 0 auto;*/
+
+  margin: 20px auto;
+
+  /*padding: 60px 50px 50px 70px;*/
+  /*margin-left: auto;
+  margin-right: auto;
+  display: block;*/
+}
+.profile {
+  width: 45%;
+  height: 70%;
+  float: left;
+  /* padding-left: 30px;*/
+  margin: 20px;
+}
+.hello {
+  width: 40%;
+  height: 66%;
+  float: left;
+  margin: 20px;
+}
+
+.profile_photo {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 57%;
+  height: 60%;
+}
+
+.name {
+  text-align: center;
+  text-decoration: darkred;
+  text-transform: uppercase;
+}
+
+.social_media {
+  /* margin: 0 auto;
+  width: 100%;
+  */
+  height: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
