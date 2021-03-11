@@ -15,7 +15,8 @@ body {
 }
 
 header {
-  background-color: darkkhaki;
+  background-color: white;
+  height: 8%;
 }
 
 header::after {
@@ -26,7 +27,9 @@ header::after {
 
 .logo {
   float: left;
-  padding: 10px 0;
+  /* padding: 10px 0;*/
+  color: black;
+  text-transform: uppercase;
 }
 nav {
   float: right;
@@ -44,53 +47,95 @@ nav li {
 }
 
 nav a {
-  color: darkolivegreen;
+  color: black;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 14px;
 }
 nav a:hover {
-  color: darkorange;
+  color: cornflowerblue;
 }
 /*profile section*/
 
+.main_container {
+  justify-content: center;
+  position: relative;
+  width: 88%;
+  /*height: 60%;*/
+}
+
 .sub_main {
   width: 60%;
-  height: 80%;
+  height: 70%;
   /*margin: 0 auto;*/
 
   margin: 20px auto;
+  background-color: #e6dace;
 
   /*padding: 60px 50px 50px 70px;*/
-  /*margin-left: auto;
+  margin-left: auto;
   margin-right: auto;
-  display: block;*/
+  display: block;
+  overflow: hidden;
+
+  /* display: flex;
+  /*flex-direction: row;*/
+  /*justify-content: center;*/
+  /*box-shadow: 5px 10px #888888;*/
+  /* box-shadow: 0 8px 6px -6px black;*/
+  /*box-shadow: 0 0 0 10px hsl(0, 0%, 80%), 0 0 0 15px hsl(0, 0%, 90%);*/
+
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
 }
 .profile {
   width: 45%;
-  height: 70%;
+  height: 80%;
   float: left;
   /* padding-left: 30px;*/
   margin: 20px;
+  background-color: #f4ece6;
+  /*box-shadow: 5px 10px #888888;*/
+  /*box-shadow: 0px 0px 3px 8px #888888;*/
+  box-shadow: 0 8px 6px -6px black;
 }
 .hello {
   width: 40%;
-  height: 66%;
+  height: 70%;
   float: left;
   margin: 20px;
+}
+.heading {
+}
+
+.heading h1,
+h6 {
+  margin: 5px;
+  padding: 5px;
+  font-family: "Space Mono", monospace;
+  line-height: 120%;
+  color: black;
+}
+
+.pp {
+  font-family: "Space Mono", monospace;
+  line-height: 120%;
+  color: black;
 }
 
 .profile_photo {
   margin-left: auto;
   margin-right: auto;
+  margin-top: 10px;
   display: block;
   width: 57%;
   height: 60%;
+  border-radius: 50%;
 }
 
 .name {
   text-align: center;
-  text-decoration: darkred;
+  color: black;
   text-transform: uppercase;
 }
 
@@ -98,8 +143,40 @@ nav a:hover {
   /* margin: 0 auto;
   width: 100%;
   */
-  height: 20%;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  height: 19%;
+  display: flex;
+  justify-content: center;
+  background-color: ghostwhite;
+}
+
+.social_media ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social_media li {
+  display: inline-block;
+  /* margin-left: 70px;*/
+  padding-top: 37px;
+}
+.social_media a {
+  margin: 0 10px 0 0;
+  list-style: none;
+  text-decoration: none;
+  width: 15px;
+  cursor: pointer;
+  color: black;
+}
+
+/* footer*/
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
